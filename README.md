@@ -6,8 +6,8 @@
 2. Can use the tab to switch between the button.
 3. Will automatically renew the output.
 4. Have a input error handle.
-5. The firsst product when I am learning Qt design.
-6. Have use the EVB to package an apllication.
+5. The first product when I am learning Qt design.
+6. Have used the EVB to package an apllication.
 
 ### Operation
 1. You can use the language type **set [file_path]** to set the dictionary file.
