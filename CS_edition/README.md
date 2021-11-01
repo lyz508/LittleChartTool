@@ -5,7 +5,7 @@
 1. Supprt unicode text
 2. Shortcut added
 3. Optimized UI
-![intro_git](https://github.com/lyz508/LittleChartTool/blob/ChartTool_cs/ChartToolCSEdition/Resources/chartTool_multichoice.gif)
+![intro_git](./ChartToolCSEdition/Resources/chartTool_multichoice.gif)
 - [Manual](https://hackmd.io/w2Qa037dSOqHvS9v2ewsnA)
 
 ## Characteristics

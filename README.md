@@ -19,4 +19,4 @@
 
 ## Another Edition with C#
 - a version is created with C#, winform.
-- ![intro_git](https://github.com/lyz508/LittleChartTool/blob/ChartTool_cs/ChartToolCSEdition/Resources/chartTool_multichoice.gif)
+- ![intro_git](./CS_edition/ChartToolCSEdition/Resources/chartTool_multichoice.gif)
