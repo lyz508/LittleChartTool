@@ -16,3 +16,7 @@
     - '$': this is use to specify the common chart
     - '&': this is use to specify the uncommon chart
 3. Warninh: the application doesn't support the use of UTF-8 encoding, mind it!
+
+## Another Edition with C#
+- a version is created with C#, winform.
+- ![intro_git](https://github.com/lyz508/LittleChartTool/blob/ChartTool_cs/ChartToolCSEdition/Resources/chartTool_multichoice.gif)
